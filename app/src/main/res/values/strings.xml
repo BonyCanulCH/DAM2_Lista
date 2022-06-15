@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">DAM2_Lista</string>
+    <string-array name="Asig">
+        <item>Analisis_y_Diseño_de_Sistemas</item>
+        <item>Investigacion_de_Operaciones</item>
+        <item>Desarrollo_de_App_Moviles_2</item>
+        <item>Administracion_de_Redes</item>
+        <item>Administracion_de_BD</item>
+        <item>Competencias</item>
+        <item>Economia</item>
+    </string-array>
+    <string-array name="Analisis_y_Diseño_de_Sistemas">
+        <item>Investigacion de requerimientos de software</item>
+        <item>Cuestionario sobre un desarrollo de software</item>
+        <item>Investigacion de requerimientos de hardware</item>
+    </string-array>
+    <string-array name="Investigacion_de_Operaciones">
+        <item>Resolver el problema Reddy Mikks</item>
+        <item>Ejercicios de metodo solver</item>
+        <item>Ejercicios de metodo m</item>
+    </string-array>
+    <string-array name="Desarrollo_de_App_Moviles_2">
+        <item>Crear Spinner</item>
+        <item>Crear ListView</item>
+        <item>Hacer la practica 1</item>
+    </string-array>
+    <string-array name="Administracion_de_Redes">
+        <item>Exposicion de seguridad</item>
+        <item>Exposicion del Jueves</item>
+        <item>Investigacion de Redes</item>
+    </string-array>
+    <string-array name="Administracion_de_BD">
+        <item>Crear base de datos</item>
+        <item>Hacer consultas con World</item>
+        <item>Hacer consulta con Sakila</item>
+    </string-array>
+    <string-array name="Competencias">
+        <item>Hacer rueda de la vida</item>
+        <item>Hacer tarea de la foto</item>
+        <item>Hacer la carta</item>
+    </string-array>
+    <string-array name="Economía">
+        <item>Investigacion de conceptos</item>
+        <item>Investigar Macro y Microeconomia</item>
+        <item>Crear una empresa</item>
+    </string-array>
+</resources>
